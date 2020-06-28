@@ -1,10 +1,10 @@
 {
-  "name": "api-builder-cli",
+  "name": "generate-project-cli",
   "version": "0.2.5",
   "description": "Generate the front-end API call method according to the swagger.json provided by the back-end",
   "main": "index.js",
   "bin": {
-    "pj": "./bin/index.js"
+    "p": "./bin/index.js"
   },
   "scripts": {},
   "author": "kuangliting",
